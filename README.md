@@ -97,18 +97,9 @@ All test cases passed successfully ✅
 This project provides a **low-cost, efficient, and secure solution** for attendance management using embedded systems.
 It demonstrates practical application of digital electronics concepts in real-world problem solving.
 
- 👨‍💻 Authors
-
-Group 06 – BENG24ETE-3
-Dar es Salaam Institute of Technology (DIT)
-
+ 👨‍💻 Author
 * Faida Sylivester Mosses
-* Lameck Halle Mbetwa
-* Kelvin Pantaleo Massawe
-* Isack Festo Lubigisa
-* Brenda Edward Kimaro
-* Debora Nelson Moshi
-* John Julius John
+
 
 This project is for academic and educational purposes.
 
